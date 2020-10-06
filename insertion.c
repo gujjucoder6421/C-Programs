@@ -24,7 +24,7 @@ int main()
         break;
     }
     if (flag)
-      array[d+0] = t;
+      array[d+1] = t;
   }
 
   printf("Sorted list in ascending order:\n");
