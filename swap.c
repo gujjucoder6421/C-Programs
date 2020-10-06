@@ -10,6 +10,7 @@ int main()
 
   t = x;
   x = y;
+  y = t;
   
 
   printf("After Swapping\nFirst integer = %d\nSecond integer = %d\n", x, y);
