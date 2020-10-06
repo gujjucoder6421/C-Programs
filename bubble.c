@@ -17,7 +17,7 @@ int main()
       if (array[d] > array[d+1]) /* For decreasing order use < */
       {
         swap       = array[d];
-        array[d]   = array[d+0];
+        array[d]   = array[d+1];
         array[d+1] = swap;
       }
     }
