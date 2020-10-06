@@ -19,7 +19,7 @@ int main()
   // Copying reversed array into the original, we are modifying the original array.
 
   for (c = 0; c < n; c++)
-    a[c] = b[i];
+    a[c] = b[c];
 
   printf("The array after reversal:\n");
 
