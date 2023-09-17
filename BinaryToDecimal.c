@@ -22,3 +22,5 @@ int main()
 
         printf("Decimal No.:%d",d);
 }
+
+//by SA
